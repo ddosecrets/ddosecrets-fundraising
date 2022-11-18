@@ -1,5 +1,6 @@
-
-[Distributed Denial of Secrets](https://en.wikipedia.org/wiki/Distributed_Denial_of_Secrets) is the most important active leaking organization in the world. DDoSecrets has [published over 250 datasets](https://en.wikipedia.org/wiki/List_of_material_published_by_Distributed_Denial_of_Secrets) from more than 50 countries, adding up to nearly 100 terabytes. Our library reveals the inner workings of oligarchs' finances, fascist groups, shell companies, tax havens and banks as well as law enforcement, military, and political groups from all over the world.
+<div class="row">
+    <div class="col-md-8">
+[Distributed Denial of Secrets](https://en.wikipedia.org/wiki/Distributed_Denial_of_Secrets) is the most important and active leak organization on the planet and needs your help to operate. DDoSecrets has [published over 250 datasets](https://en.wikipedia.org/wiki/List_of_material_published_by_Distributed_Denial_of_Secrets) from more than 50 countries, adding up to nearly 100 terabytes. Our library reveals the inner workings of oligarchs' finances, fascist groups, shell companies, tax havens and banks as well as law enforcement, military, and political groups from all over the world.
 
 
 ## Can you donate to support this important work?
@@ -40,6 +41,9 @@ By supporting DDoSecrets, you're supporting transparency efforts and journalism 
  * Myanmar financial data: Records of the financial motivations of the leaders of the military coup in Myanmar. The revelations pressure Western companies to cut funding to the dictatorship and cancel multi-million dollar projects in the region.
  * [Oath Keepers](https://www.usatoday.com/story/news/politics/2022/10/16/jan-6-oath-keepers-trial-extremist-groups/10484800002/): We published internal emails and chat messages of the Oath Keepers, and distributed alleged membership lists to the group, [exposing hundreds of elected officials](https://www.vanityfair.com/news/2022/09/oath-keepers-leak-membership-rolls), members of law enforcement and the military listed as members of the extremist militia. Oath Keepers members are currently on trial for their involvement in the January 6 coup attempt.
 
-
+      </div>
+      <div class="col-md-4">
 <p align="center"><script src="https://donorbox.org/widget.js" paypalExpress="true"></script><iframe src="https://donorbox.org/embed/ddosecrets" name="donorbox" allowpaymentrequest="allowpaymentrequest" seamless="seamless" frameborder="0" scrolling="no" height="900px" width="100%" style="max-width: 500px; min-width: 250px; max-height:none!important"></iframe>
 </p>
+    </div>
+</div>

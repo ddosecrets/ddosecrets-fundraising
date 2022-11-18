@@ -9,6 +9,6 @@ locale: en_US
 
 
 
- sass:
+sass:
   sass_dir:         assets/_sass
   style:            compressed

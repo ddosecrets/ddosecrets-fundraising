@@ -1,9 +1,6 @@
 [Distributed Denial of Secrets](https://en.wikipedia.org/wiki/Distributed_Denial_of_Secrets) is the most important and active leak organization on the planet and needs your help to operate. DDoSecrets has [published over 250 datasets](https://en.wikipedia.org/wiki/List_of_material_published_by_Distributed_Denial_of_Secrets) from more than 50 countries, adding up to nearly 100 terabytes. Our library reveals the inner workings of oligarchs' finances, fascist groups, shell companies, tax havens and banks as well as law enforcement, military, and political groups from all over the world.
 
-
-<div class="container">
-
-<div class="float-right"><p><script src="https://donorbox.org/widget.js" paypalExpress="true"></script><iframe src="https://donorbox.org/embed/ddosecrets" name="donorbox" allowpaymentrequest="allowpaymentrequest" seamless="seamless" frameborder="0" scrolling="no" height="900px" width="100%" style="max-width: 500px; min-width: 250px; max-height:none!important"></iframe></p></div>
+<p align="center"><script src="https://donorbox.org/widget.js" paypalExpress="true"></script><iframe src="https://donorbox.org/embed/ddosecrets" name="donorbox" allowpaymentrequest="allowpaymentrequest" seamless="seamless" frameborder="0" scrolling="no" height="900px" width="100%" style="max-width: 500px; min-width: 250px; max-height:none!important"></iframe></p>
 
 
 ## Can you donate to support this important work?
@@ -19,7 +16,6 @@ After we [published BlueLeaks](https://www.wired.com/2010/02/wikileaks-budget-wo
 
 We never bowed to pressure or stopped publishing. We debunked the [U.S. Department of Homeland Security labeling us](https://twitter.com/NatSecGeek/status/1538546466242940928) "criminal hackers." Despite the censorship, our library continues to impact public debate. The [Parler videos we published were used as evidence](https://twitter.com/NatSecGeek/status/1538546466242940928) during the second impeachment trial of President Donald Trump.
 
-</div>
 
 ## Your contributions help us fight.
 

@@ -1,21 +1,25 @@
 [Distributed Denial of Secrets](https://en.wikipedia.org/wiki/Distributed_Denial_of_Secrets) is the most important and active leak organization on the planet and needs your help to operate. DDoSecrets has [published over 250 datasets](https://en.wikipedia.org/wiki/List_of_material_published_by_Distributed_Denial_of_Secrets) from more than 50 countries, adding up to nearly 100 terabytes. Our library reveals the inner workings of oligarchs' finances, fascist groups, shell companies, tax havens and banks as well as law enforcement, military, and political groups from all over the world.
 
 
+<div class="container">
+
+<div class="float-right"><p><script src="https://donorbox.org/widget.js" paypalExpress="true"></script><iframe src="https://donorbox.org/embed/ddosecrets" name="donorbox" allowpaymentrequest="allowpaymentrequest" seamless="seamless" frameborder="0" scrolling="no" height="900px" width="100%" style="max-width: 500px; min-width: 250px; max-height:none!important"></iframe></p></div>
+
+
 ## Can you donate to support this important work?
 
 
 While DDoSecrets' expenses have gone up, we remain an efficient, barebones operation. We are sometimes [called a successor](https://www.wired.com/story/ddosecrets-blueleaks-wikileaks/) to WikiLeaks. [For comparison](https://www.wired.com/2010/12/wikileaks-spending/), in [2010 WikiLeaks](https://www.wsj.com/articles/SB10001424052748704554104575436231926853198) needed "€10,000 to €15,000 a month to maintain its Web presence," $200,000 a year to cover its operating expenses, and more than half a million dollars [to pay a small staff](https://www.wired.com/2010/02/wikileaks-budget-woes/). With a fraction of that budget, DDoSecrets is making more than 10,000 times the amount of data available.
 
-<div class="float-right"><p><script src="https://donorbox.org/widget.js" paypalExpress="true"></script><iframe src="https://donorbox.org/embed/ddosecrets" name="donorbox" allowpaymentrequest="allowpaymentrequest" seamless="seamless" frameborder="0" scrolling="no" height="900px" width="100%" style="max-width: 500px; min-width: 250px; max-height:none!important"></iframe></p></div></br>
 
 ## This work comes with significant risk.
 
 
 After we [published BlueLeaks](https://www.wired.com/2010/02/wikileaks-budget-woes/), a large cache of files from over 200 U.S. law enforcement agencies and intelligence fusion centers, German authorities seized the server for DDoSecrets' search system at the request of the FBI. The German prosecutor acted despite having [no official paperwork and knowing DDoSecrets was a journalist group](https://www.zeit.de/digital/internet/2020-07/blueleaks-ddosecrets-whistleblower-server-beschlagnahmt). At the same time, we were banned from social media. To this day, you can't Tweet any [DDoSecrets.com](https://ddosecrets.com/) web addresses except this one 😼.
 
-
 We never bowed to pressure or stopped publishing. We debunked the [U.S. Department of Homeland Security labeling us](https://twitter.com/NatSecGeek/status/1538546466242940928) "criminal hackers." Despite the censorship, our library continues to impact public debate. The [Parler videos we published were used as evidence](https://twitter.com/NatSecGeek/status/1538546466242940928) during the second impeachment trial of President Donald Trump.
 
+</div>
 
 ## Your contributions help us fight.
 

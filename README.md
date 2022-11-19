@@ -6,8 +6,7 @@
 
 While DDoSecrets' expenses have gone up, we remain an efficient, barebones operation. We are sometimes [called a successor](https://www.wired.com/story/ddosecrets-blueleaks-wikileaks/) to WikiLeaks. [For comparison](https://www.wired.com/2010/12/wikileaks-spending/), in [2010 WikiLeaks](https://www.wsj.com/articles/SB10001424052748704554104575436231926853198) needed "€10,000 to €15,000 a month to maintain its Web presence," $200,000 a year to cover its operating expenses, and more than half a million dollars [to pay a small staff](https://www.wired.com/2010/02/wikileaks-budget-woes/). With a fraction of that budget, DDoSecrets is making more than 10,000 times the amount of data available.
 
-<p align="center"><script src="https://donorbox.org/widget.js" paypalExpress="true"></script><iframe src="https://donorbox.org/embed/ddosecrets" name="donorbox" allowpaymentrequest="allowpaymentrequest" seamless="seamless" frameborder="0" scrolling="no" height="900px" width="100%" style="max-width: 500px; min-width: 250px; max-height:none!important"></iframe>
-</p>
+<div class="float-right"><p><script src="https://donorbox.org/widget.js" paypalExpress="true"></script><iframe src="https://donorbox.org/embed/ddosecrets" name="donorbox" allowpaymentrequest="allowpaymentrequest" seamless="seamless" frameborder="0" scrolling="no" height="900px" width="100%" style="max-width: 500px; min-width: 250px; max-height:none!important"></iframe></p></div></br>
 
 ## This work comes with significant risk.
 

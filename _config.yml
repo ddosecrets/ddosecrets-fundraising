@@ -1,2 +1,13 @@
+plugins:
+ - jekyll-remote-theme
+
+title: DDoSecrets is Bringing Secrets to Light!
+description: DDoSecrets is the most important and active leak organization on the planet.
+url: https://ddosecrets.com
+locale: en_US
+
 theme: jekyll-theme-cayman
-title: Donate to Distributed Denial of Secrets!
+
+sass:
+  sass_dir:         assets/_sass
+  style:            compressed

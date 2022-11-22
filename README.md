@@ -5,7 +5,7 @@
 <div class="row">
     <div class="column">While DDoSecrets' expenses have gone up, we remain an efficient, barebones operation. We are sometimes <a href="https://www.wired.com/story/ddosecrets-blueleaks-wikileaks/">called a successor</a> to WikiLeaks. <a href="https://www.wired.com/2010/12/wikileaks-spending/">For comparison,</a> in <a href="https://www.wsj.com/articles/SB10001424052748704554104575436231926853198">2010 WikiLeaks</a> needed "€10,000 to €15,000 a month to maintain its Web presence," $200,000 a year to cover its operating expenses, and more than half a million dollars <a href="https://www.wired.com/2010/02/wikileaks-budget-woes/">to pay a small staff</a>. With a fraction of that budget, DDoSecrets is making more than 10,000 times the amount of data available. </div>
     <div class="column">
-    <p align="center"><script src="https://donorbox.org/widget.js" paypalExpress="true"></script><iframe src="https://donorbox.org/embed/ddosecrets" name="donorbox" allowpaymentrequest="allowpaymentrequest" seamless="seamless" frameborder="0" scrolling="no" height="900px" width="100%" style="max-width: 500px; min-width: 250px; max-height:none!important"></iframe></p>
+<script src="https://donorbox.org/widget.js" paypalExpress="true"></script><iframe src="https://donorbox.org/embed/ddosecrets" name="donorbox" allowpaymentrequest="allowpaymentrequest" seamless="seamless" frameborder="0" scrolling="no" height="900px" width="100%" style="max-width: 500px; min-width: 250px; max-height:none!important"></iframe>
     </div>
 </div>
 

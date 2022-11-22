@@ -56,17 +56,27 @@ body {
   background-color: #E6E6FA;
 }
 
-
-.row {
- display: flex;
+.container {
+  display:flex;
 }
 
-.column-markdown {
- flex: 50%;
- padding-left: 1rem;
+.column-1 {
+  flex-shrink: 0; /* shrinks to 0 to apply 70% width*/
+  flex-basis: 50%; /* sets initial width to 70% */
 }
 
-.column {
- flex: 50%;
- padding-left: 1rem;
+
+.box {
+  padding: 1rem;
+  box-shadow: transparent;
+  padding-bottom: 2rem;
+}
+
+@media only screen and (max-width: 900px) {
+  .container {
+      /* it place the items in vertical direction */
+    flex-direction: column;
+    padding-top: 2rem;
+//    margin: auto auto auto auto;
+  }
 }

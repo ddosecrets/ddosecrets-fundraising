@@ -55,3 +55,18 @@ body {
   color: $body-text-color;
   background-color: #E6E6FA;
 }
+
+
+.row {
+ display: flex;
+}
+
+.column-markdown {
+ flex: 50%;
+ padding-left: 1rem;
+}
+
+.column {
+ flex: 50%;
+ padding-left: 1rem;
+}

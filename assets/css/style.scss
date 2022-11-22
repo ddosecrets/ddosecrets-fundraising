@@ -32,9 +32,6 @@ $hr-border-color: #eff0f1 !default;
   text-align: center;
   text-shadow: 2px 2px #404040;
   padding: 3rem 6rem;
-  //background-color: radial-gradient($header-bg-color, $header-bg-color-secondary);
-//  background-image: repeating-radial-gradient($header-bg-color,$header-bg-color-secondary);
-  //background-image: radial-gradient($header-bg-color, $header-bg-color-secondary);
   background-image: repeating-radial-gradient($header-bg-color,$header-bg-color-secondary);
 }
 

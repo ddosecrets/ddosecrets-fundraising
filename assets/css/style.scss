@@ -33,6 +33,9 @@ $hr-border-color: #eff0f1 !default;
   text-shadow: 2px 2px #404040;
   padding: 3rem 6rem;
   background-image: repeating-radial-gradient($header-bg-color,$header-bg-color-secondary);
+  background-image: url("logo.svg");
+  background-repeat: no-repeat;
+  background-size: auto;
 }
 
 .main-content p{
@@ -72,6 +75,49 @@ body {
   padding-bottom: 2rem;
 }
 
+.project-tagline{
+  font-size:1.45rem;
+  color: #FBFBFB;
+}
+
+
+// ul.styled {
+//   list-style: none;
+//   padding: 0;
+//   margin: 0;
+//   li {
+//     padding-left: 1rem;
+//     text-indent: -0.75rem;
+//     &::before {
+//       content: "🦁 ";
+//     }
+//     &:nth-child(2)::before {
+//       content: "🐆 ";
+//     }
+//     &:nth-child(3)::before {
+//       content: "🦏 ";
+//     }
+//     &:nth-child(4)::before {
+//       content: "🐘 ";
+//     }
+//     &:nth-child(5)::before {
+//       content: "🐃 ";
+//     }
+//   }
+
+//
+// @counter-style repeating-emoji {
+//   system: cyclic;
+//   symbols: "\1F4D4" "\1F3E2" "\203C" "\1F30E" "\1F46E" "\2694"; // unicode code point
+//   suffix: " ";
+// }
+//
+// .repeating-counter-rule {
+//   list-style-type: repeating-emoji;
+// }
+//
+
+
 @media only screen and (max-width: 900px) {
   .container {
       /* it place the items in vertical direction */
@@ -80,3 +126,53 @@ body {
 //    margin: auto auto auto auto;
   }
 }
+
+  // .repeating-before {
+  //   list-style: none;
+  //   padding: 0;
+  //   margin: 0;
+  //
+  //   li {
+  //     padding-left: 1rem;
+  //     text-indent: -0.7rem;
+  //   }
+  //
+  //   li:nth-child(3n+1)::before {
+  //     content: "📒 ";
+  //   }
+  //
+  //   li:nth-child(3n+2)::before {
+  //     content: "🏢 ";
+  //   }
+  //   li:nth-child(3n+3)::before {
+  //     content: "‼️ ";
+  //   }
+  //
+  //   li:nth-child(3n+4)::before {
+  //     content: "🌎 ";
+  //   }
+  //   li:nth-child(3n+5)::before {
+  //     content: "👮‍ ";
+  //   }
+  //   li:nth-child(3n)::before {
+  //     content: "⚔️";
+  //   }
+  // }
+
+
+//@counter-style repeating-emoji {
+//    system: cyclic;
+//    symbols: "\1F4D4" "\1F3E2" "\203C" "\1F30E" "\1F46E" "\2694"; // unicode code point
+    // 1F4D4 ledger
+    // 1F3E2 <- office
+    //203C 	<- !!
+    //1F30E <- Americas
+    //1F46E <- police
+    //1F3FE <- skintone
+    //2694 <- dagger
+    //1F3E6 <- banks
+//    suffix: " ";
+//  }
+//  .repeating-counter-rule {
+//    list-style-type: repeating-emoji;
+//  }

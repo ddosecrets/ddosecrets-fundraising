@@ -32,8 +32,8 @@ $hr-border-color: #eff0f1 !default;
   text-align: center;
   text-shadow: 2px 2px #404040;
   padding: 3rem 6rem;
-  background-image: repeating-radial-gradient($header-bg-color,$header-bg-color-secondary);
-  background-image: url("logo.svg");
+//  background-image: repeating-radial-gradient($header-bg-color,$header-bg-color-secondary);
+  background-image: url("images/logo.svg");
   background-repeat: no-repeat;
   background-size: auto;
 }
@@ -72,7 +72,6 @@ li {
 li::before {
   content: "📒 "; /* Insert content that looks like bullets */
   padding-right: 8px;
-  //color: blue; /* Or a color you prefer */
 }
 
 .container {

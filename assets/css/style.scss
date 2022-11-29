@@ -32,8 +32,8 @@ $hr-border-color: #eff0f1 !default;
   text-align: center;
   text-shadow: 2px 2px #404040;
   padding: 3rem 6rem;
-//  background-image: repeating-radial-gradient($header-bg-color,$header-bg-color-secondary);
-  background-image: url("images/logo.svg");
+//  background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(177,89,217,1) 100%);
+  background-image: url("images/logo.svg"), radial-gradient(circle, rgba(244,146,189,1) 0%, rgba(108,6,154,1) 100%);
   background-repeat: no-repeat;
   background-size: auto;
 }

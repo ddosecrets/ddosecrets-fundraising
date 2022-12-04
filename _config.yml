@@ -3,7 +3,7 @@ plugins:
 
 title: Join the Distributed Denial of Secrets
 description: DDoSecrets is the most important and active leak organization on the planet.
-title_image: images/logo.png
+logo: logo.png
 url: https://ddosecrets.com
 locale: en_US
 

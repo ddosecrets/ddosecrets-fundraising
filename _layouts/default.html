@@ -1,16 +1,15 @@
 <!DOCTYPE html>
-
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <meta charset="UTF-8">
 
-<!-- add OG tags for social media -->
+    <!-- Twitter Cards -->
     <meta name="twitter:card" content="summary_large_image">
-     <meta property="og:type" content="website"/>
-    <meta property="og:title" content="Join the Distributed Denial of Secrets"/>
-    <meta property="og:image" content="/images/logo.png"/>
-     <meta property="og:description" content="DDoSecrets is the most important and active leak organization on the planet."/>
-     <meta property="og:url" content="www.ddosecrets.charity"/>
+    <meta name="twitter:image" content="{{ image }}">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:image" content="{{ site.logo }}">
+    <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+    <meta name="twitter:creator" content="@{{ site.twitter }}">
 
 {% seo %}
     <link rel="preconnect" href="https://fonts.gstatic.com">

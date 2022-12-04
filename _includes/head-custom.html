@@ -1,5 +1,11 @@
 <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
 
+<!-- Twitter Cards -->
+<meta name="twitter:card" content="summary">
+<meta property="twitter:image" content="https://ddosecrets.com/images/2/25/Ddosecrets_logo_g.jpg">
+<meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+<meta name="twitter:creator" content="@{{ site.twitter }}">
+
 <!-- Setup Google Analytics -->
 {% include head-custom-google-analytics.html %}
 

@@ -1,4 +1,5 @@
 
+{% include head-custom.html %}
 
 [Distributed Denial of Secrets](https://en.wikipedia.org/wiki/Distributed_Denial_of_Secrets) is the single most trusted leak organization on the planet and is constantly publishing new submissions from whistleblowers, activist groups and others to bring truth to light. This hard work involves thousands of hours of human labor to complete and we need your help to continue to operate. DDoSecrets has [published over 250 datasets](https://en.wikipedia.org/wiki/List_of_material_published_by_Distributed_Denial_of_Secrets) from more than 50 countries, adding up to nearly 100 terabytes. Our library reveals the inner workings of oligarchs' finances, fascist organizations, shell companies, tax havens and banks as well as law enforcement, military, and political groups from all over the world.
 

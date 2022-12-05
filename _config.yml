@@ -5,6 +5,7 @@ title: Join the Distributed Denial of Secrets
 description: DDoSecrets is the most important and active leak organization on the planet.
 url: https://ddosecrets.charity
 locale: en_US
+logo: logo_transparent.png
 
 theme: jekyll-theme-cayman
 
@@ -14,5 +15,3 @@ sass:
 
 twitter:
   username: blue_leaks
-
-logo: "assets/logo_transparent.png"

@@ -6,6 +6,7 @@ description: DDoSecrets is the most important and active leak organization on th
 url: https://ddosecrets.charity
 locale: en_US
 logo: logo_transparent.png
+homelogo: logo_transparent.png
 
 theme: jekyll-theme-cayman
 
